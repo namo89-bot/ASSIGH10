@@ -1,3 +1,5 @@
+import { VenueItem } from "../../interface";
+
 interface SingleVenueJson {
     success: boolean;
     data: VenueItem;
